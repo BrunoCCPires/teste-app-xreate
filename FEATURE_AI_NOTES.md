@@ -1,0 +1,1 @@
+Basic test app created with a simple form that collects a name and displays a welcome message. The app uses React state management and includes basic styling.
